@@ -50,15 +50,15 @@ Here are the technologies used in this project.
 
 ### 2 - Navigate between dynamic product routes
 
-![Post Page Print](https://raw.githubusercontent.com/Artur-Poffo/GitHub-Blog-Ignite/main/public/readme/Product.png)
+![Product Page](https://raw.githubusercontent.com/Artur-Poffo/Ignite-Shop/main/public/readme/Product.png)
 
 ### 3 - And add or remove items to cart
 
-![Post Page Print](https://raw.githubusercontent.com/Artur-Poffo/GitHub-Blog-Ignite/main/public/readme/OpenCart.png)
+![Cart Image](https://raw.githubusercontent.com/Artur-Poffo/Ignite-Shop/main/public/readme/OpenCart.png)
 
 ### 4 - Confirm your purchase with Stripe and see the success screen, to test use a [Stripe API test card](https://stripe.com/docs/testing)
 
-![Post Page Print](https://raw.githubusercontent.com/Artur-Poffo/GitHub-Blog-Ignite/main/public/readme/Success.png)
+![Success Page Image](https://raw.githubusercontent.com/Artur-Poffo/Ignite-Shop/main/public/readme/Success.png)
 
 
 ## Features
